@@ -1,0 +1,15 @@
+{
+  "name": "stropee/tp",
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "stropee",
+      "email": "stropee@campus-eni.fr"
+    }
+  ],
+  "require": {}
+}
